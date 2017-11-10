@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1, span {
+	font-family: 'Lato', 'Verdana', 'Helvetica', sans-serif;
+	font-weight: 400;
+	letter-spacing: 0.1em;
+	color: #ecf0f1;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+
+span {
+	color: #e67e22;
+}
+
+body {
+	background-color: #34495e;
+	text-align: center;
+}
+
+.info {
+	margin-top: 28%;
+}
